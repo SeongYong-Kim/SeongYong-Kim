@@ -4,3 +4,4 @@
 - Data Analysis
 - SQL
 - ML/DL
+- Statistics
