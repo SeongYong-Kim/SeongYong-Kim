@@ -13,10 +13,6 @@
 - Statistics
 - Simulation
 ---
-<a href="https://velog.io/@tjddyd1592">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@tjddyd1592r"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@tjddyd1592)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:tjddyd1592@korea.ac.kr)
