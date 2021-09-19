@@ -1,7 +1,9 @@
+<div aling="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongYong-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
+    
 ### Data Analyst
-- 데이터 분석, ML/DL을 통한 서비스 개선에 관심이 많은 Data Analyst입니다.
+- 데이터 분석, ML/DL을 통한 서비스 개선에 관심이 많습니다.
 ### Interest
 - Data Analysis
 - SQL
