@@ -12,7 +12,7 @@
 - ML/DL
 - Statistics
 - Simulation
----
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@tjddyd1592)](https://velog.io/@tjddyd1592)
