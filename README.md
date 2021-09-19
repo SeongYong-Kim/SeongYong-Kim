@@ -14,3 +14,5 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@tjddyd1592r"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
