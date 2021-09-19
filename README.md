@@ -17,6 +17,6 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@tjddyd1592)](https://velog.io/@tjddyd1592)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjddyd1592@korea.ac.kr)](mailto:tjddyd1592@korea.ac.kr)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Data-Analyst-adeea01daf1c4978bb17fa5c114143e5)](https://www.notion.so/Data-Analyst-adeea01daf1c4978bb17fa5c114143e5)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://)](https://)
     
 </div>
