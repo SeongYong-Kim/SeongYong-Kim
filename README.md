@@ -7,6 +7,7 @@
 - SQL
 - ML/DL
 - Statistics
+- Simulation
 ---
 <a href="https://velog.io/@tjddyd1592">
     <img 
