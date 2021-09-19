@@ -19,4 +19,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:tjddyd1592@korea.ac.kr)
