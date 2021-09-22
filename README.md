@@ -4,7 +4,7 @@
 
 </div>
 
-### Data Analyst
+### Data Analyst / Machine learning engineer
 - 데이터 분석, ML/DL을 통한 서비스 개선에 관심이 많습니다.
 ### Interest
 - Data Analysis
